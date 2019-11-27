@@ -1,0 +1,46 @@
+﻿  Structs.cpp
+  main.cpp
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\soil.h(41): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\soil.h(41): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(341): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(409): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(426): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(433): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(446): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(455): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(463): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(780): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(782): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(797): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(809): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(839): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\main.cpp(942): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  imageloader.cpp
+  FileConfig.cpp
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\fileconfig.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  Button.cpp
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\button.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  Bullet.cpp
+  Asteroid.cpp
+  Generating Code...
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\fileconfig.cpp(21): warning C4715: 'FileConfig::getConfig': not all control paths return a value
+  stb_image_aug.c
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\stbi_dds_aug_c.h(362): warning C4018: '>': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\stbi_dds_aug_c.h(366): warning C4018: '>': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\stbi_dds_aug_c.h(390): warning C4018: '<': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\stbi_dds_aug_c.h(427): warning C4018: '<': signed/unsigned mismatch
+  SOIL.c
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\soil.h(41): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\soil.h(41): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\soil.c(1719): warning C4018: '<=': signed/unsigned mismatch
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\soil.c(1729): warning C4018: '<': signed/unsigned mismatch
+  image_helper.c
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\image_helper.c(325): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\image_helper.c(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\image_helper.c(373): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\image_helper.c(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\arifh\downloads\compressed\spaceshooter\spaceshooter\soil\image_helper.c(422): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  image_DXT.c
+  Generating Code...
+  SpaceShooter.vcxproj -> C:\Users\arifh\Downloads\Compressed\SpaceShooter\Debug\SpaceShooter.exe
+  SpaceShooter.vcxproj -> C:\Users\arifh\Downloads\Compressed\SpaceShooter\Debug\SpaceShooter.pdb (Partial PDB)
